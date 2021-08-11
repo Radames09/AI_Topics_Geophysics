@@ -14,4 +14,5 @@ Both classification methods were applied to make a litological classification.
 
 
 Author: Matheus Radamés S. Barbosa
+
 E-mail: m.radames09@hotmail.com
